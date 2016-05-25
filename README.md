@@ -120,7 +120,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [Steam WebAPI Documentation by xpaw](https://lab.xpaw.me/steam_api_documentation.html)
 - [Steam as OpenID provider](http://steamcommunity.com/dev)
 - [Steam API key registration](http://steamcommunity.com/dev/apikey)
-- [Steam Error Codes](https://steamerrors.com/) - list of `EResult` codes with possible explanations
+- [Steam Error Codes](https://steamerrors.com/) - List of `EResult` codes with possible explanations.
 
 ### Tutorials
 
@@ -134,8 +134,8 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Standalone tools
 
-- [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) - Intercept Steam client's network messages
-- [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspect messages dumped by NetHook2
+- [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) - Intercept Steam client's network messages.
+- [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspect messages dumped by NetHook2.
 
 ### Discussion boards
 
