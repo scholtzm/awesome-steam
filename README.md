@@ -9,16 +9,16 @@ The purpose of this document is to provide a quick overview over existing packag
 ## Table of Contents
 
 - [Packages](#packages)
-  - [C#](#c-35-)
-  - [Node.js](#node-js)
+  - [C#](#c)
+  - [Node.js](#nodejs)
   - [PHP](#php)
   - [Go](#go)
   - [Python](#python)
-  - [C++](#c-)
+  - [C++](#c-1)
   - [Java](#java)
 
 - [Resources](#resources)
-  - [General](#general)
+  - [General](#general-1)
   - [Tutorials](#tutorials)
   - [Posts](#posts)
   - [Standalone tools](#standalone-tools)
