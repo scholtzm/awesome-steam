@@ -147,6 +147,7 @@ The purpose of this document is to provide a quick overview over existing packag
 ### Discussion Boards
 
 - [/r/SteamBot](https://www.reddit.com/r/SteamBot)
+- [/r/SteamBot Discord](https://discord.gg/0i5X3oDHJbDUsiGC)
 - [/r/nodesteam](https://www.reddit.com/r/nodesteam)
 - [DoctorMcKay's Dev Forum](https://dev.doctormckay.com/)
 - [node-steam-forum](https://github.com/steam-forward/node-steam-forum)
