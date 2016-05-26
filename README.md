@@ -16,6 +16,7 @@ The purpose of this document is to provide a quick overview over existing packag
   - [Python](#python)
   - [C++](#c-1)
   - [Java](#java)
+  - [Objective-C](#objective-c)
 
 - [Resources](#resources)
   - [General](#general-1)
@@ -110,6 +111,10 @@ The purpose of this document is to provide a quick overview over existing packag
 ### Java
 
 - [SteamKit-Java](https://github.com/Top-Cat/SteamKit-Java) - Java port of SteamKit.
+
+### Objective-C
+
+- [SteamAuth](https://github.com/michaelchum/SteamAuth) - An iOS wrapper around Steam's OpenID login.
 
 ## Resources
 
