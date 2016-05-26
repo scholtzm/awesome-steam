@@ -21,8 +21,8 @@ The purpose of this document is to provide a quick overview over existing packag
   - [General](#general-1)
   - [Tutorials](#tutorials)
   - [Posts](#posts)
-  - [Standalone tools](#standalone-tools)
-  - [Discussion boards](#discussion-boards)
+  - [Standalone Tools](#standalone-tools)
+  - [Discussion Boards](#discussion-boards)
 
 ## Packages
 
@@ -56,13 +56,13 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) - Steam Trade Offers for Node.js.
 - [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management.
 
-#### Game interaction
+#### Game Interaction
 
 - [tf2](https://github.com/DoctorMcKay/node-tf2) - Interact directly with TF2 game coordinator.
 - [csgo](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator.
 - [dota2](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator.
 
-#### Community & store automation
+#### Community & Store Automation
 
 - [steamcommunity](https://github.com/DoctorMcKay/node-steamcommunity) - Interact with steamcommunity.com. Also allows to confirm trade offers.
 - [steamstore](https://github.com/DoctorMcKay/node-steamstore) - Interact with store.steampowered.com.
@@ -132,13 +132,13 @@ The purpose of this document is to provide a quick overview over existing packag
 - [Everything related to Escrow](https://github.com/DoctorMcKay/node-steam-totp)
 - [Understanding avatar hash](https://www.reddit.com/r/SteamBot/comments/3cv6k7/problem_downloading_an_avatar_using/)
 
-### Standalone tools
+### Standalone Tools
 
 - [NetHook2](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHook2) - Intercept Steam client's network messages.
 - [NetHook2 Analyzer](https://github.com/SteamRE/SteamKit/tree/master/Resources/NetHookAnalyzer2) - Inspect messages dumped by NetHook2.
 - [steam-auth-web-util](http://scholtzm.github.io/steam-auth-web-util/) - Generate 2FA codes directly in your web browser.
 
-### Discussion boards
+### Discussion Boards
 
 - [/r/SteamBot](https://www.reddit.com/r/SteamBot)
 - [/r/nodesteam](https://www.reddit.com/r/nodesteam)
