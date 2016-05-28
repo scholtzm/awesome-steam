@@ -136,7 +136,7 @@ The purpose of this document is to provide a quick overview over existing packag
 ### Posts
 
 - [Item IDs explained](https://dev.doctormckay.com/topic/332-identifying-steam-items/)
-- [Everything related to Escrow](https://github.com/DoctorMcKay/node-steam-totp)
+- [Everything related to Escrow](https://www.reddit.com/r/SteamBot/comments/3udhkd/everything_related_to_escrow/)
 - [Understanding avatar hash](https://www.reddit.com/r/SteamBot/comments/3cv6k7/problem_downloading_an_avatar_using/)
 
 ### Standalone Tools
