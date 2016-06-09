@@ -125,8 +125,8 @@ The purpose of this document is to provide a quick overview over existing packag
 - [Steam WebAPI @ ValveSoftware](https://developer.valvesoftware.com/wiki/Steam_Web_API)
 - [Steam WebAPI @ TF2 Wiki](https://wiki.teamfortress.com/wiki/WebAPI)
 - [Steam WebAPI Documentation by xpaw](https://lab.xpaw.me/steam_api_documentation.html)
-- [Steam as OpenID provider](http://steamcommunity.com/dev)
-- [Steam API key registration](http://steamcommunity.com/dev/apikey)
+- [Steam as OpenID Provider](http://steamcommunity.com/dev)
+- [Steam API Key Registration](http://steamcommunity.com/dev/apikey)
 - [Steam Error Codes](https://steamerrors.com/) - List of `EResult` codes with possible explanations.
 
 ### Tutorials
@@ -135,9 +135,9 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Posts
 
-- [Item IDs explained](https://dev.doctormckay.com/topic/332-identifying-steam-items/)
-- [Everything related to Escrow](https://www.reddit.com/r/SteamBot/comments/3udhkd/everything_related_to_escrow/)
-- [Understanding avatar hash](https://www.reddit.com/r/SteamBot/comments/3cv6k7/problem_downloading_an_avatar_using/)
+- [Item IDs Explained](https://dev.doctormckay.com/topic/332-identifying-steam-items/)
+- [Everything Related to Escrow](https://www.reddit.com/r/SteamBot/comments/3udhkd/everything_related_to_escrow/)
+- [Understanding Avatar Hash](https://www.reddit.com/r/SteamBot/comments/3cv6k7/problem_downloading_an_avatar_using/)
 
 ### Standalone Tools
 
