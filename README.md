@@ -48,8 +48,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### WebAPI
 
-- [steam-web-api](https://github.com/seishun/node-steam-web-api) - Lightweight WebAPI wrapper.
-- [steam-webapi](https://github.com/DoctorMcKay/node-steam-webapi) - WebAPI wrapper with support for extra HTTP headers sent by Steam.
+- [steam-webapi](https://github.com/DoctorMcKay/node-steam-webapi) - Complete WebAPI wrapper with support for extra HTTP headers sent by Steam.
 
 #### Trading
 
