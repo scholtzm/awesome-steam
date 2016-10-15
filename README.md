@@ -58,6 +58,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### Game Interaction
 
+- [steam-gameserver](https://github.com/DoctorMcKay/node-steam-gameserver) - Steam client handler for Gameserver and AnonGameserver account types.
 - [tf2](https://github.com/DoctorMcKay/node-tf2) - Interact directly with TF2 game coordinator.
 - [csgo](https://github.com/joshuaferrara/node-csgo) - Interact directly with CS:GO game coordinator.
 - [dota2](https://github.com/RJacksonm1/node-dota2) - Interact directly with Dota 2 game coordinator.
@@ -93,7 +94,9 @@ The purpose of this document is to provide a quick overview over existing packag
 - [SteamCommunity](https://github.com/waylaidwanderer/PHP-SteamCommunity) - A PHP library for interacting with the Steam Community website.
 - [SteamAuthentication](https://github.com/SmItH197/SteamAuthentication) - Steam OpenID authentication with PHP.
 - [SteamAuthOOP](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication.
-- [steam-api-php](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API.
+- [steam-api](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API.
+- [steamid](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP.
+- [steam-totp](https://github.com/DoctorMcKay/php-steam-totp) - PHP library to deal with Steam's proprietary TOTP algorithm.
 
 ### Go
 
