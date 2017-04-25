@@ -31,10 +31,17 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### C&#35;
 
+#### General
+
 - [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network.
 - [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality.
 - [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade.
 - [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers.
+
+#### Misc
+
+- [BackpackLogin](https://github.com/igeligel/BackpackLogin) - A .NET standard library to login into backpack.tf via Steam credentials.
+- [TeamFortressOutpostApi](https://github.com/igeligel/TeamFortressOutpostApi) - A .NET standard class library which will allow the user to interact with Team Fortress Outpost.
 
 ### Node.js
 
