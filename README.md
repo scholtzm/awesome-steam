@@ -121,9 +121,16 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steampy](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support.
 - [SteamAPI](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API.
 
+#### Game Interaction
+
+- [csgo[(https://github.com/ValvePython/csgo) - Python module for interacting with CSGO's Game Coordinator.
+- [dota2](https://github.com/ValvePython/dota2) - Python module for interacting with Dota 2's Game Coordinator.
+
 #### Misc
 
 - [backpack.py](https://github.com/Zwork101/backpack.py) - Library for interacting with backpack.tf.
+- [vpk](https://github.com/ValvePython/vpk) - Python module for working with Valve's Pack format.
+- [vdf](https://github.com/ValvePython/vdf) - Python module for working with Valve's KeyValue format.
 
 ### C++
 
