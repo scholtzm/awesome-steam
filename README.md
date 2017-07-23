@@ -119,6 +119,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [PySteamKit](https://bitbucket.org/AzuiSleet/pysteamkit) - Python port of SteamKit.
 - [steamodd](https://github.com/Lagg/steamodd) - Steam tools library.
 - [steampy](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support.
+- [SteamAPI](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API.
 
 #### Misc
 
