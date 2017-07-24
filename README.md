@@ -123,7 +123,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### Game Interaction
 
-- [csgo[(https://github.com/ValvePython/csgo) - Python module for interacting with CSGO's Game Coordinator.
+- [csgo](https://github.com/ValvePython/csgo) - Python module for interacting with CSGO's Game Coordinator.
 - [dota2](https://github.com/ValvePython/dota2) - Python module for interacting with Dota 2's Game Coordinator.
 
 #### Misc
