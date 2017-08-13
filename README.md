@@ -160,11 +160,11 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### Pricing
 
-- [steamlytics](http://steamlytics.xyz/) - free (no price list) to $250 - API service which will provide [CS:GO prices and more](http://csgo.steamlytics.xyz/api) and [steam related information](http://steam.steamlytics.xyz/api) as a service.
-- [steamapi.io](https://steamapi.io/) - free to $50/month - API service which is providing steam related information including prices throughout different games [CS:GO, Dota 2, Team Fortress 2, PUBG, ...).
-- [steamanalyst](https://csgo.steamanalyst.com/api_info) - custom pricing - Steamanalys pricing. This service has custom pricing and just CS:GO items. The customer needs to contact the service in first place.
-- [steamapis.com](https://steamapis.com/) - 0.50€/month to 11€/month - Up-to-date market data collected from Steam.
-- [backpack.tf](https://backpack.tf/developer) - free - Get several price information of the Team Fortress 2 market.
+- [steamlytics](http://steamlytics.xyz/) - API service which will provide [CS:GO prices and more](http://csgo.steamlytics.xyz/api) and [steam related information](http://steam.steamlytics.xyz/api) as a service.
+- [steamapi.io](https://steamapi.io/) - API service which is providing steam related information including prices throughout different games [CS:GO, Dota 2, Team Fortress 2, PUBG, ...).
+- [steamanalyst](https://csgo.steamanalyst.com/api_info) - This service provides pricing for CS:GO items. The customer needs to contact the service in first place to get access.
+- [steamapis.com](https://steamapis.com/) - Up-to-date market data collected from Steam.
+- [backpack.tf](https://backpack.tf/developer) - Service providing several price information of the Team Fortress 2 market.
 
 ### Tutorials
 
