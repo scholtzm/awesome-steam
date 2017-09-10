@@ -20,6 +20,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [Resources](#resources)
   - [General](#general-1)
+  - [Services](#services)
   - [Tutorials](#tutorials)
   - [Posts](#posts)
   - [Standalone Tools](#standalone-tools)
@@ -154,6 +155,16 @@ The purpose of this document is to provide a quick overview over existing packag
 - [Steam as OpenID Provider](http://steamcommunity.com/dev)
 - [Steam API Key Registration](http://steamcommunity.com/dev/apikey)
 - [Steam Error Codes](https://steamerrors.com/) - List of `EResult` codes with possible explanations.
+
+### Services
+
+#### Pricing
+
+- [steamlytics](http://steamlytics.xyz/) - API service which will provide [CS:GO prices](http://csgo.steamlytics.xyz/api) and [steam related information](http://steam.steamlytics.xyz/api) as a service.
+- [steamapi.io](https://steamapi.io/) - API service which is providing steam related information, including prices throughout different games [CS:GO, Dota 2, Team Fortress 2, PUBG, ...).
+- [steamanalyst](https://csgo.steamanalyst.com/api_info) - This service provides pricing for CS:GO items. The customer needs to contact the service in the first place to get access.
+- [steamapis.com](https://steamapis.com/) - Up-to-date market data collected from Steam.
+- [backpack.tf](https://backpack.tf/developer) - Service providing several price information of the Team Fortress 2 market.
 
 ### Tutorials
 
