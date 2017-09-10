@@ -20,11 +20,11 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [Resources](#resources)
   - [General](#general-1)
-  - [Services](#services)
   - [Tutorials](#tutorials)
   - [Posts](#posts)
   - [Standalone Tools](#standalone-tools)
   - [Discussion Boards](#discussion-boards)
+  - [Third-Party Services](#third-party-services)
 
 ## Packages
 
@@ -156,16 +156,6 @@ The purpose of this document is to provide a quick overview over existing packag
 - [Steam API Key Registration](http://steamcommunity.com/dev/apikey)
 - [Steam Error Codes](https://steamerrors.com/) - List of `EResult` codes with possible explanations.
 
-### Services
-
-#### Pricing
-
-- [steamlytics](http://steamlytics.xyz/) - API service which will provide [CS:GO prices](http://csgo.steamlytics.xyz/api) and [steam related information](http://steam.steamlytics.xyz/api) as a service.
-- [steamapi.io](https://steamapi.io/) - API service which is providing steam related information, including prices throughout different games [CS:GO, Dota 2, Team Fortress 2, PUBG, ...).
-- [steamanalyst](https://csgo.steamanalyst.com/api_info) - This service provides pricing for CS:GO items. The customer needs to contact the service in the first place to get access.
-- [steamapis.com](https://steamapis.com/) - Up-to-date market data collected from Steam.
-- [backpack.tf](https://backpack.tf/developer) - Service providing several price information of the Team Fortress 2 market.
-
 ### Tutorials
 
 - [Creating a Steam Trade Bot with Node.js](https://firepowered.org/developer/create-a-steam-trade-bot-with-nodejs-iojs-updated-for-node-steam-v1-0/)
@@ -193,6 +183,16 @@ The purpose of this document is to provide a quick overview over existing packag
 - [/r/nodesteam](https://www.reddit.com/r/nodesteam)
 - [DoctorMcKay's Dev Forum](https://dev.doctormckay.com/)
 - [node-steam-forum](https://github.com/steam-forward/node-steam-forum)
+
+### Third-Party Services
+
+Services listed below may provide free and/or paid services and are listed alphabetically according to their domain name.
+
+- [backpack.tf](https://backpack.tf/developer) - Provides TF2 prices and Steam market/inventory related services.
+- [steamanalyst.com](https://steamanalyst.com/) - Provides CS:GO prices.
+- [steamapi.io](https://steamapi.io/) - Provides prices for several games and Steam market/inventory related services.
+- [steamapis.com](https://steamapis.com/) - Provides prices for several games and Steam market/inventory related services.
+- [steamlytics.xyz](https://steamlytics.xyz/) - Provides CS:GO prices and Steam market/inventory related services.
 
 ## License
 
