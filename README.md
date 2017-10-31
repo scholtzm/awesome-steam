@@ -38,11 +38,13 @@ The purpose of this document is to provide a quick overview over existing packag
 - [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality.
 - [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade.
 - [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers.
+- [SteamStandardProject](https://github.com/ObsidianMinor/SteamStandardProject) - A collection of .NET Standard libraries using common types that provide functionality in one or more parts of Steam
 
 #### Misc
 
-- [BackpackLogin](https://github.com/igeligel/BackpackLogin) - A .NET standard library for logging into backpack.tf using Steam credentials.
-- [TeamFortressOutpostApi](https://github.com/igeligel/TeamFortressOutpostApi) - A .NET standard class library which allows user to interact with TF2Outpost.
+- [BackpackLogin](https://github.com/igeligel/BackpackLogin) - A .NET Standard library for logging into backpack.tf using Steam credentials.
+- [TeamFortressOutpostApi](https://github.com/igeligel/TeamFortressOutpostApi) - A .NET Standard class library which allows user to interact with TF2Outpost.
+- [SteamGaugesApi](https://github.com/igeligel/SteamGaugesApi) - A .NET Standard 2.0 library to automatically use the API of [steamgauges](https://steamgaug.es/).
 
 ### Node.js
 
