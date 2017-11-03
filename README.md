@@ -9,8 +9,8 @@ The purpose of this document is to provide a quick overview over existing packag
 ## Table of Contents
 
 - [Packages](#packages)
-  - [C#](#c)
   - [Node.js](#nodejs)
+  - [C#](#c)
   - [PHP](#php)
   - [Go](#go)
   - [Python](#python)
@@ -29,22 +29,6 @@ The purpose of this document is to provide a quick overview over existing packag
 ## Packages
 
 > 💡 Many of these package repositories provide helpful READMEs and wiki pages, which explain the usage and/or provide examples. Do not forget to check them out when using particular package.
-
-### C&#35;
-
-#### General
-
-- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network.
-- [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality.
-- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade.
-- [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers.
-- [SteamStandardProject](https://github.com/ObsidianMinor/SteamStandardProject) - A collection of .NET Standard libraries using common types that provide functionality in one or more parts of Steam.
-
-#### Misc
-
-- [BackpackLogin](https://github.com/igeligel/BackpackLogin) - A .NET Standard library for logging into backpack.tf using Steam credentials.
-- [TeamFortressOutpostApi](https://github.com/igeligel/TeamFortressOutpostApi) - A .NET Standard class library which allows user to interact with TF2Outpost.
-- [SteamGaugesApi](https://github.com/igeligel/SteamGaugesApi) - A .NET Standard 2.0 library to automatically use the API of [steamgauges](https://steamgaug.es/).
 
 ### Node.js
 
@@ -98,6 +82,22 @@ The purpose of this document is to provide a quick overview over existing packag
 - [vdf](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa.
 - [steamrep](https://github.com/scholtzm/node-steamrep) - Check user's SteamRep reputation.
 - [reptf](https://github.com/scholtzm/node-reptf) - Check user's rep.tf reputation.
+
+### C&#35;
+
+#### General
+
+- [SteamKit2](https://github.com/SteamRE/SteamKit) - .NET library designed to interoperate with Valve's Steam network.
+- [SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality.
+- [SteamBot](https://github.com/Jessecar96/SteamBot) - Automated bot software for interacting with steam trade.
+- [SteamTradeOffersBot](https://github.com/waylaidwanderer/SteamTradeOffersBot) - SteamBot fork which focuses on trade offers.
+- [SteamStandardProject](https://github.com/ObsidianMinor/SteamStandardProject) - A collection of .NET Standard libraries using common types that provide functionality in one or more parts of Steam.
+
+#### Misc
+
+- [BackpackLogin](https://github.com/igeligel/BackpackLogin) - A .NET Standard library for logging into backpack.tf using Steam credentials.
+- [TeamFortressOutpostApi](https://github.com/igeligel/TeamFortressOutpostApi) - A .NET Standard class library which allows user to interact with TF2Outpost.
+- [SteamGaugesApi](https://github.com/igeligel/SteamGaugesApi) - A .NET Standard 2.0 library to automatically use the API of [steamgauges](https://steamgaug.es/).
 
 ### PHP
 
