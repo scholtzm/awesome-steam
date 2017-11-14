@@ -124,7 +124,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steamodd](https://github.com/Lagg/steamodd) - Steam tools library.
 - [steampy](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support.
 - [SteamAPI](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API.
-- [Steam-Trade](https://github.com/Zwork101/steam-trade) - An asynchronous, event based python steam trade lib
+- [Steam-Trade](https://github.com/Zwork101/steam-trade) - An asynchronous, event-based trade library.
 
 #### Game Interaction
 
