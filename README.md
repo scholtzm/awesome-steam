@@ -133,7 +133,6 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### Misc
 
-- [backpack.py](https://github.com/Zwork101/backpack.py) - Library for interacting with backpack.tf. (Not Maintained)
 - [vpk](https://github.com/ValvePython/vpk) - Python module for working with Valve's Pack format.
 - [vdf](https://github.com/ValvePython/vdf) - Python module for working with Valve's KeyValue format.
 
