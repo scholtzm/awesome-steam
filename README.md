@@ -151,7 +151,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Ruby
 
-- [steam-trade](https://github.com/OmG3r/steam-trade) - Ruby gem for sending trade offers
+- [steam-trade](https://github.com/OmG3r/steam-trade) - Ruby gem for sending trade offers.
 
 ## Resources
 
