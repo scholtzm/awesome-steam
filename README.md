@@ -17,6 +17,7 @@ The purpose of this document is to provide a quick overview over existing packag
   - [C++](#c-1)
   - [Java](#java)
   - [Objective-C](#objective-c)
+  - [Ruby](#ruby)
 
 - [Resources](#resources)
   - [General](#general-1)
@@ -147,6 +148,10 @@ The purpose of this document is to provide a quick overview over existing packag
 ### Objective-C
 
 - [SteamAuth](https://github.com/michaelchum/SteamAuth) - An iOS wrapper around Steam's OpenID login.
+
+### Ruby
+
+- [steam-trade](https://github.com/OmG3r/steam-trade) - Ruby gem for sending trade offers.
 
 ## Resources
 
