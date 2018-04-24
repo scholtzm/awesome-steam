@@ -17,7 +17,7 @@ The purpose of this document is to provide a quick overview over existing packag
   - [C++](#c-1)
   - [Java](#java)
   - [Objective-C](#objective-c)
-  - [Ruby](#Ruby)
+  - [Ruby](#ruby)
 
 - [Resources](#resources)
   - [General](#general-1)
