@@ -144,6 +144,7 @@ The purpose of this document is to provide a quick overview over existing packag
 ### Java
 
 - [SteamKit-Java](https://github.com/Top-Cat/SteamKit-Java) - Java port of SteamKit.
+- [JavaSteam](https://github.com/Longi94/JavaSteam) - Java library that provides an interface to directly interact with Valve's Steam servers.
 
 ### Objective-C
 
