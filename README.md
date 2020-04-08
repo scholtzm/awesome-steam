@@ -84,6 +84,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [vdf](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa.
 - [steamrep](https://github.com/scholtzm/node-steamrep) - Check user's SteamRep reputation.
 - [reptf](https://github.com/scholtzm/node-reptf) - Check user's rep.tf reputation.
+- [steam-inventory-stream](https://github.com/timvandam/steam-inventory-stream) - Fetch inventories as readable streams
 
 ### C&#35;
 
