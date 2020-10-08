@@ -52,6 +52,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) - Steam Trade Offers for Node.js.
 - [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management.
 - [steam-inventory-stream](https://github.com/timvandam/steam-inventory-stream) - Fetch inventories as readable streams.
+- [steam-inventory-api-ng](https://github.com/itsjfx/node-steam-inventory-api-ng) - A Steam Inventory API wrapper with advanced features such as retries and proxy support.
 
 #### Game Interaction
 
