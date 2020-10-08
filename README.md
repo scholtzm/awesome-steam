@@ -85,6 +85,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [vdf](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa.
 - [steamrep](https://github.com/scholtzm/node-steamrep) - Check user's SteamRep reputation.
 - [reptf](https://github.com/scholtzm/node-reptf) - Check user's rep.tf reputation.
+- [steamapis](https://github.com/itsjfx/node-steamapis) - Module to use the API of [steamapis.com](https://steamapis.com).
 
 ### C&#35;
 
