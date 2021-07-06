@@ -163,7 +163,8 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [Steam WebAPI @ ValveSoftware](https://developer.valvesoftware.com/wiki/Steam_Web_API)
 - [Steam WebAPI @ TF2 Wiki](https://wiki.teamfortress.com/wiki/WebAPI)
-- [Steam WebAPI Documentation by xpaw](https://lab.xpaw.me/steam_api_documentation.html)
+- [Steam WebAPI Documentation by xPaw](https://lab.xpaw.me/steam_api_documentation.html)
+- [Steam Internal WebAPI Documentation by Revadike](https://github.com/Revadike/UnofficialSteamWebAPI)
 - [Steam as OpenID Provider](http://steamcommunity.com/dev)
 - [Steam API Key Registration](http://steamcommunity.com/dev/apikey)
 - [Steam Error Codes](https://steamerrors.com/) - List of `EResult` codes with possible explanations.
