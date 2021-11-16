@@ -206,7 +206,6 @@ Websites listed below may provide free and/or paid services and are listed alpha
 - [steamanalyst.com](https://steamanalyst.com/) - Provides CS:GO prices.
 - [steamapi.io](https://steamapi.io/) - Provides prices for several games and Steam market/inventory related services.
 - [steamapis.com](https://steamapis.com/) - Provides prices for several games and Steam market/inventory related services.
-- [steamlytics.xyz](https://steamlytics.xyz/) - Provides CS:GO prices and Steam market/inventory related services.
 
 ## License
 
