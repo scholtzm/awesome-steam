@@ -204,7 +204,7 @@ Websites listed below may provide free and/or paid services and are listed alpha
 
 - [backpack.tf](https://backpack.tf/developer) - Provides TF2 prices and Steam market/inventory related services.
 - [steamanalyst.com](https://steamanalyst.com/) - Provides CS:GO prices.
-- [steamapi.io](https://steamapi.io/) - Provides prices for several games and Steam market/inventory related services.
+- [hexa.one](https://hexa.one/) - Provides prices for several games and Steam market/inventory related services.
 - [steamapis.com](https://steamapis.com/) - Provides prices for several games and Steam market/inventory related services.
 
 ## License
