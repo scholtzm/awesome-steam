@@ -20,7 +20,7 @@ The purpose of this document is to provide a quick overview over existing packag
   - [Ruby](#ruby)
 
 - [Resources](#resources)
-  - [General](#general-1)
+  - [General](#general-3)
   - [Tutorials](#tutorials)
   - [Posts](#posts)
   - [Standalone Tools](#standalone-tools)
