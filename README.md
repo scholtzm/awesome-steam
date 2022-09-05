@@ -118,6 +118,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [steam](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go.
 - [steam-mobileauth](https://github.com/YellowOrWhite/go-steam-mobileauth) - Port of SteamAuth in Go.
+- [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) - Steam desktop authenticator.
 
 ### Python
 
