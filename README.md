@@ -189,6 +189,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam-auth-web-util](http://scholtzm.github.io/steam-auth-web-util/) - Generate 2FA codes directly in your web browser.
 - [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
 - [protonenv](https://github.com/rizkiarm/protonenv) - Simple Proton version and prefix management.
+- [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) - Steam desktop authenticator.
 
 ### Discussion Boards
 
