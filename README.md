@@ -116,7 +116,8 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Go
 
-- [steam](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go.
+- [steam](https://github.com/0xAozora/steam) - Simple steam library for trading in Go.
+- [go-steam](https://github.com/Philipp15b/go-steam) - Steam's protocol in Go.
 - [steam-mobileauth](https://github.com/YellowOrWhite/go-steam-mobileauth) - Port of SteamAuth in Go.
 
 ### Python
