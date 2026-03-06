@@ -18,6 +18,7 @@ The purpose of this document is to provide a quick overview over existing packag
   - [Java](#java)
   - [Objective-C](#objective-c)
   - [Ruby](#ruby)
+  - [Rust](#rust)
 
 - [Resources](#resources)
   - [General](#general-3)
@@ -156,6 +157,10 @@ The purpose of this document is to provide a quick overview over existing packag
 ### Ruby
 
 - [steam-trade](https://github.com/OmG3r/steam-trade) - Ruby gem for sending trade offers.
+
+### Rust
+
+- [steamguard-cli](https://github.com/dyc3/steamguard-cli) - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
 
 ## Resources
 
