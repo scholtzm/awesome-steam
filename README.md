@@ -40,6 +40,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam-user](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client.
 - [vapor](https://github.com/scholtzm/vapor) - Lightweight Steam client framework.
 - [steam-parentbot](https://github.com/dragonbanshee/node-steam-parentbot) - Simple base class for a Steam bot.
+- [steamworks-ffi-node](https://github.com/ArtyProf/steamworks-ffi-node) - A Node.js wrapper for Steamworks SDK.
 
 #### WebAPI
 
