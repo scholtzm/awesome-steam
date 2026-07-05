@@ -196,6 +196,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
 - [protonenv](https://github.com/rizkiarm/protonenv) - Simple Proton version and prefix management.
 - [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) - Steam desktop authenticator.
+- [Video Game Backlog](https://www.videogamebacklog.com/analyze) - Steam library analyzer: paste a public profile (URL, vanity, or SteamID64) to see interesting statistics.
 
 ### Discussion Boards
 
