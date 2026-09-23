@@ -196,6 +196,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
 - [protonenv](https://github.com/rizkiarm/protonenv) - Simple Proton version and prefix management.
 - [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) - Steam desktop authenticator.
+- [Console Mode](https://github.com/lippdev/consolemode) - Switch a Windows PC to the TV for Big Picture (monitors, audio) and restore the desktop when you quit.
 
 ### Discussion Boards
 
