@@ -197,6 +197,8 @@ The purpose of this document is to provide a quick overview over existing packag
 - [protonenv](https://github.com/rizkiarm/protonenv) - Simple Proton version and prefix management.
 - [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) - Steam desktop authenticator.
 
+- [AION Steam Pulse](https://steampulsecheck.site/guide) - View current AION 2 Steam players using Valve’s WebAPI and export timestamped session observations as CSV.
+
 ### Discussion Boards
 
 - [/r/SteamBot](https://www.reddit.com/r/SteamBot)
