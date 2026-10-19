@@ -213,6 +213,7 @@ Websites listed below may provide free and/or paid services and are listed alpha
 - [steamanalyst.com](https://steamanalyst.com/) - Provides CS:GO prices.
 - [hexa.one](https://hexa.one/) - Provides prices for several games and Steam market/inventory related services.
 - [steamapis.com](https://steamapis.com/) - Provides prices for several games and Steam market/inventory related services.
+- [steam-page-auditor.vercel.app](https://steam-page-auditor.vercel.app/) - Automated Steam store page conversion audit with score, prioritized fixes, and ready-to-paste rewrites.
 
 ## License
 
