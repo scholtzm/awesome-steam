@@ -181,6 +181,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [Charred's node.js Guide to Steam Bots](https://github.com/charredgrass/nodejs-bot-guide)
 - [In-depth Steam Bot Guide with Node.js](https://github.com/andrewda/node-steam-guide)
 - [Retrieving 2FA Keys from iOS Device](http://forums.backpack.tf/index.php?/topic/45995-guide-how-to-get-your-shared-secret-from-ios-device-steam-mobile/)
+- [Steam Store Page Broadcasting over RTMP](https://loopcast.io/kb-steam-rtmp-streaming-guide) - Broadcast spec, RTMP token and working ffmpeg commands for store page broadcasts.
 
 ### Posts
 
