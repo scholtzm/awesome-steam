@@ -196,6 +196,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
 - [protonenv](https://github.com/rizkiarm/protonenv) - Simple Proton version and prefix management.
 - [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) - Steam desktop authenticator.
+- [Review Pulse for Steam](https://github.com/botdrop-gg/review-pulse-for-steam) - Post each new Steam review of a game to a Discord channel via webhook.
 
 ### Discussion Boards
 
