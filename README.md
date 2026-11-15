@@ -213,6 +213,7 @@ Websites listed below may provide free and/or paid services and are listed alpha
 - [steamanalyst.com](https://steamanalyst.com/) - Provides CS:GO prices.
 - [hexa.one](https://hexa.one/) - Provides prices for several games and Steam market/inventory related services.
 - [steamapis.com](https://steamapis.com/) - Provides prices for several games and Steam market/inventory related services.
+- [render.vskin.gg](https://render.vskin.gg) - Provides a 3D viewer for CS2 items to embed on your own site, by iframe or JavaScript SDK.
 
 ## License
 
