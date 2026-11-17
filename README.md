@@ -210,6 +210,7 @@ The purpose of this document is to provide a quick overview over existing packag
 Websites listed below may provide free and/or paid services and are listed alphabetically according to their domain name.
 
 - [backpack.tf](https://backpack.tf/developer) - Provides TF2 prices and Steam market/inventory related services.
+- [gamedata.live](https://gamedata.live/) - Provides live player counts, peaks and player history for Steam games.
 - [steamanalyst.com](https://steamanalyst.com/) - Provides CS:GO prices.
 - [hexa.one](https://hexa.one/) - Provides prices for several games and Steam market/inventory related services.
 - [steamapis.com](https://steamapis.com/) - Provides prices for several games and Steam market/inventory related services.
