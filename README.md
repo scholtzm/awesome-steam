@@ -196,7 +196,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
 - [protonenv](https://github.com/rizkiarm/protonenv) - Simple Proton version and prefix management.
 - [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) - Steam desktop authenticator.
-- [Fortune Wheel](https://dvinerlove.github.io/fortune-wheel/) - Web wheel that picks a random game from your list; auto-matches Steam titles with live prices/discounts, shareable via short links. ([source](https://github.com/dvinerlove/fortune-wheel))
+- [Steam Roulette](https://dvinerlove.github.io/steam-roulette/) - Web wheel that picks a random game from your list; auto-matches Steam titles with live prices/discounts, shareable via short links. ([source](https://github.com/dvinerlove/steam-roulette))
 
 ### Discussion Boards
 
