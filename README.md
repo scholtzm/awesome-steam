@@ -26,7 +26,6 @@ The purpose of this document is to provide a quick overview over existing packag
   - [Posts](#posts)
   - [Standalone Tools](#standalone-tools)
   - [Discussion Boards](#discussion-boards)
-  - [Third-Party Services](#third-party-services)
 
 ## Packages
 
@@ -204,15 +203,6 @@ The purpose of this document is to provide a quick overview over existing packag
 - [/r/nodesteam](https://www.reddit.com/r/nodesteam)
 - [DoctorMcKay's Dev Forum](https://dev.doctormckay.com/)
 - [node-steam-forum](https://github.com/steam-forward/node-steam-forum)
-
-### Third-Party Services
-
-Websites listed below may provide free and/or paid services and are listed alphabetically according to their domain name.
-
-- [backpack.tf](https://backpack.tf/developer) - Provides TF2 prices and Steam market/inventory related services.
-- [steamanalyst.com](https://steamanalyst.com/) - Provides CS:GO prices.
-- [hexa.one](https://hexa.one/) - Provides prices for several games and Steam market/inventory related services.
-- [steamapis.com](https://steamapis.com/) - Provides prices for several games and Steam market/inventory related services.
 
 ## License
 
